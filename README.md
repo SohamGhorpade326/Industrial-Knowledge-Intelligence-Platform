@@ -38,26 +38,26 @@ Furthermore, as 25% of experienced industrial engineers face retirement in the n
 ```mermaid
 graph TB
     subgraph Frontend["Frontend (React + Vite)"]
-        UI[Material UI & Tailwind]
-        Graph[Knowledge Graph Viz]
+        UI["Material UI & Tailwind"]
+        Graph["Knowledge Graph Viz"]
     end
 
     subgraph Backend["Backend (FastAPI)"]
-        API[REST API]
-        Auth[JWT Auth]
-        Agents[AI Agents]
+        API["REST API"]
+        Auth["JWT Auth"]
+        Agents["AI Agents"]
     end
 
     subgraph AI["AI Pipeline"]
-        RAG[RAG Engine]
-        EMB[BAAI/bge-small-en-v1.5]
-        LLM[Llama 3.3 70B (Groq)]
+        RAG["RAG Engine"]
+        EMB["BAAI/bge-small-en-v1.5"]
+        LLM["Llama 3.3 70B (Groq)"]
     end
 
     subgraph Storage["Data Layer"]
-        SQLite[(SQLite)]
-        ChromaDB[(ChromaDB)]
-        Neo4j[(Neo4j Graph)]
+        SQLite[("SQLite")]
+        ChromaDB[("ChromaDB")]
+        Neo4j[("Neo4j Graph")]
     end
 
     Frontend -->|REST HTTP| Backend
