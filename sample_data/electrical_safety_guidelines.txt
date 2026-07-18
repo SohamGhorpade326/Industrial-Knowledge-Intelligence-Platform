@@ -1,0 +1,29 @@
+# Plant Electrical Safety Guidelines
+
+## 1. General Electrical Safety
+- Only authorized and trained personnel (certified electricians) are permitted to perform electrical repairs.
+- All electrical panels must have a minimum clearance of 3 feet (1 meter) in front of them.
+- Do not use extension cords as a substitute for permanent wiring.
+- Any exposed or frayed wiring must be reported immediately and tagged out.
+
+## 2. Lockout/Tagout (LOTO) Procedure
+Before performing any maintenance on electrically powered equipment:
+1. Identify all energy sources (electrical, pneumatic, hydraulic).
+2. Shut down the equipment using the standard operating procedure.
+3. Isolate the equipment from all energy sources.
+4. Apply a designated lock and tag to the energy-isolating device.
+5. Verify isolation by attempting to start the equipment.
+
+## 3. Required PPE for Electrical Work
+Depending on the voltage level and arc flash hazard category, the following may be required:
+- Insulated gloves with leather protectors (Class 0 or higher).
+- Arc-rated long-sleeve shirts and pants.
+- Safety glasses and arc-rated face shield.
+- Electrical hazard (EH) rated safety shoes.
+- Hearing protection.
+
+## 4. Emergency Response (Electrical Shock)
+1. DO NOT touch the victim if they are still in contact with the electrical source.
+2. De-energize the circuit immediately (turn off the breaker or main disconnect).
+3. Call the Emergency Response Team or dial 108 for an ambulance.
+4. Once the area is safe, begin CPR if the victim is unresponsive.

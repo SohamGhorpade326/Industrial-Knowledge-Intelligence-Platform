@@ -1,0 +1,27 @@
+# CNC Machine - Standard Operating Procedure (SOP)
+
+## 1. Safety Requirements
+- Safety glasses and steel-toed shoes must be worn at all times.
+- Do not wear loose clothing or jewelry near the spindle.
+- Ensure all emergency stop buttons are functional before startup.
+
+## 2. Startup Procedure
+1. Turn on the main power disconnect switch located on the electrical cabinet.
+2. Wait for the control system to boot (approx. 2-3 minutes).
+3. Press the "Machine Power ON" button.
+4. Release the Emergency Stop button.
+5. Perform a reference point return (Zero Return) for all axes (X, Y, Z).
+6. Check coolant levels and ensure the pump is primed.
+
+## 3. Operation
+- Load the workpiece securely into the chuck or vise.
+- Load the correct tooling into the tool carousel.
+- Run a dry pass (no workpiece contact) to verify the tool path.
+- Activate coolant and begin the machining cycle.
+
+## 4. Emergency Shutdown Procedure
+In case of fire, excessive vibration, or mechanical failure:
+1. Hit the EMERGENCY STOP (E-STOP) button immediately.
+2. Turn off the main power disconnect.
+3. Evacuate the immediate area.
+4. Notify the Plant Manager or Safety Officer.

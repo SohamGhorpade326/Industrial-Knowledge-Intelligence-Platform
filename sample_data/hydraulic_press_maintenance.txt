@@ -1,0 +1,43 @@
+# Hydraulic Press - Maintenance Manual
+
+## 1. Preventive Maintenance Schedule
+
+### Daily Checks
+- Check hydraulic fluid levels in the reservoir.
+- Inspect all hoses and fittings for signs of leakage.
+- Verify that the safety light curtains are functioning correctly.
+
+### Weekly Checks
+- Lubricate guide rails and columns.
+- Check system operating pressure (should not exceed 350 bar).
+- Inspect the main cylinder seals for seepage.
+
+### Monthly Checks
+- Replace hydraulic oil filters.
+- Take a fluid sample for contamination analysis.
+- Inspect electrical connections and tighten if necessary.
+
+## 2. Troubleshooting Guide
+
+### Issue: Loss of Pressure
+**Probable Causes:**
+1. Low hydraulic fluid level.
+2. Clogged oil filter (HF-200).
+3. Worn main cylinder seals.
+4. Faulty pressure relief valve.
+
+**Corrective Actions:**
+- Check fluid level and top up if necessary.
+- Replace oil filter.
+- If seals are worn, order Replacement Kit HS-400 and schedule downtime for repair.
+
+### Issue: Overheating
+**Probable Causes:**
+1. Continuous operation beyond rated duty cycle.
+2. Malfunctioning heat exchanger or cooling fan.
+3. Degraded hydraulic fluid.
+
+**Corrective Actions:**
+- Allow the machine to cool down.
+- Inspect the heat exchanger and clean if clogged.
+- Replace the hydraulic fluid if it appears dark or smells burnt.
